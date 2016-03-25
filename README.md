@@ -31,6 +31,17 @@ Referred to https://github.com/cuckoosandbox/cuckoo/tree/master/modules/processi
 ## Features
 
 1. JSON data - parse stage  
+  In this step I decided to parse through the 199 files and selected signatures, virustotal, behavior and target
+  and analyzed them.
+
+  signatures count - 191 files  
+  virustotal count - 171 files  
+  behavior count - 198 files   
+  target count - 199 files  
+
+
+
+
 2. JSON data - run relevant queries on the dataset to aid in clustering  
 
 ## Clustering, Classifying and Anomaly Detection
