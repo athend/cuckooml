@@ -28,5 +28,21 @@ network - Network analysis
 
 Referred to https://github.com/cuckoosandbox/cuckoo/tree/master/modules/processing & http://docs.cuckoosandbox.org/en/latest/customization/processing/ to gain understanding of the reports
 
+# Features
+
+1. JSON data - parse stage
+2. JSON data - run relevant queries on the dataset to aid in clustering
+
+# Clustering 
+
+Clustering could be applied using tf-idf and K-Means
+
+Separation of families of reports can be done based on using signatures and virustotals on a cursory note
+
+
+# Anomaly Detection
+
+Generating new clusters based on anomaly detection
+
 
 
